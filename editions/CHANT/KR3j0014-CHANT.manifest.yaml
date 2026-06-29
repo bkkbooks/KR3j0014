@@ -1,0 +1,262 @@
+canonical_identifier: bkk:krp/KR3j0014/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3j0014/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 顏氏家訓二十卷
+  identifiers:
+    krp: KR3j0014
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR3j
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0014.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0014_001-CHANT.yaml, hash: 'sha256:23c11c54bd62c12d902516ad803aa57efd28a2db4ed5bf843eb6c65c1aebd60a'}
+  - {seq: 2, filename: KR3j0014_002-CHANT.yaml, hash: 'sha256:315bd140ad716792716a82e4d4a1b5ab0b3a7b83c93736f5ebfdd77995e43aad'}
+  - {seq: 3, filename: KR3j0014_003-CHANT.yaml, hash: 'sha256:dd98804cea05380ee1524218bfc21baa5d0e45ec383db4f85bbd5638cf782d0c'}
+  - {seq: 4, filename: KR3j0014_004-CHANT.yaml, hash: 'sha256:625447d3ca0fc7a1e9188563722333ea13ae9fabd1ca408b583468b42a69db34'}
+  - {seq: 5, filename: KR3j0014_005-CHANT.yaml, hash: 'sha256:944e23601e7bfdd56fa5e5017f25e237a04e800a8068eb7db41757896683b363'}
+  - {seq: 6, filename: KR3j0014_006-CHANT.yaml, hash: 'sha256:5304e61f848cd5eb06c6dc3a5d6b8f5796f34f3b8684808bbf037405b5687cfa'}
+  - {seq: 7, filename: KR3j0014_007-CHANT.yaml, hash: 'sha256:71f3a3c74a1fa8d56be445ba39c765729086817a5d26d00f5b44d0a9141fda73'}
+  - {seq: 8, filename: KR3j0014_008-CHANT.yaml, hash: 'sha256:7ef912a6365d7cadd90a17fa077557c42af869d7de916ac5671b7f1a345aa9a8'}
+  - {seq: 9, filename: KR3j0014_009-CHANT.yaml, hash: 'sha256:5fdabae1b6227b4383200c7c2be6fb18e1a6203aedbc510199144426e86cabcd'}
+  - {seq: 10, filename: KR3j0014_010-CHANT.yaml, hash: 'sha256:6c4616a72ad020600964f2f25d2f9153d6fa509ee9f1c9949ae4dd11e4426dbb'}
+  - {seq: 11, filename: KR3j0014_011-CHANT.yaml, hash: 'sha256:451a50fe8bc0653192eef1bbbcb38e3c7779979e4c52765d9c8d123a738056ff'}
+  - {seq: 12, filename: KR3j0014_012-CHANT.yaml, hash: 'sha256:2873e3537e892c0237d997e0a8eeeac50ca4b4b79702073b287a3fdeb2afffa9'}
+  - {seq: 13, filename: KR3j0014_013-CHANT.yaml, hash: 'sha256:b18794b5e2f80dcc0b52764044f8b95e22a73637fe7c2af4da664714a579c9e5'}
+  - {seq: 14, filename: KR3j0014_014-CHANT.yaml, hash: 'sha256:c579a1088afbfd7720817e3985cfa82f13905deccf0c90a3ed7a6fdaa6118c4f'}
+  - {seq: 15, filename: KR3j0014_015-CHANT.yaml, hash: 'sha256:a67c4df5760d7ebe6291477af2f194263bf2c838c2f7dc5da080d810cc738dce'}
+  - {seq: 16, filename: KR3j0014_016-CHANT.yaml, hash: 'sha256:784e02150af1588ae887ab1f475b18d45562161f76eb57b74dc1cf574ea32879'}
+  - {seq: 17, filename: KR3j0014_017-CHANT.yaml, hash: 'sha256:1568bb85c6090fde43a368f4a0f1759a29b3474e933c467d62cd00fe907a8a9c'}
+  - {seq: 18, filename: KR3j0014_018-CHANT.yaml, hash: 'sha256:c89e65740180366e0a924cc259182c16e50593a78c757fe74afb0a1d18254dbe'}
+  - {seq: 19, filename: KR3j0014_019-CHANT.yaml, hash: 'sha256:cbeb1abc68087f1905d9deebf2603f594db798c3a59b3cd8c6f41599df35ac53'}
+  - {seq: 20, filename: KR3j0014_020-CHANT.yaml, hash: 'sha256:3b5c4d0469959306656e5d612683a51a8b0c9c42195ed29af82bab18047a9704'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0014_001-CHANT.markers.yaml, hash: 'sha256:a9726e7095edbadb50d0b0704f9d17e31b091d212e2f35353fc0fae498822f5e'}
+  - {seq: 2, role: markers, filename: assets/KR3j0014_002-CHANT.markers.yaml, hash: 'sha256:69c0983105c357a2f1a1097f3eb8434482be004db889c3e07df09a11ed69ce87'}
+  - {seq: 3, role: markers, filename: assets/KR3j0014_003-CHANT.markers.yaml, hash: 'sha256:faa6960bbfe43b48fb1ed730f38f793ab990452ef5f2167f935b4d14ca21ed26'}
+  - {seq: 4, role: markers, filename: assets/KR3j0014_004-CHANT.markers.yaml, hash: 'sha256:13d194f79f4e6436ceedbfcacca37f29a60f2ab2507b37bbed0a18da7ac2e746'}
+  - {seq: 5, role: markers, filename: assets/KR3j0014_005-CHANT.markers.yaml, hash: 'sha256:28138de88902b9aebedf63596e675331b78dd34ab78cabcf3f62d9f306f19965'}
+  - {seq: 6, role: markers, filename: assets/KR3j0014_006-CHANT.markers.yaml, hash: 'sha256:9fbe03980a5103219880c4819ba4e4dab4f77bb2a98324fbbfd4819a8b61d5d6'}
+  - {seq: 7, role: markers, filename: assets/KR3j0014_007-CHANT.markers.yaml, hash: 'sha256:2db3b14dec8d32caf78e6366f962120f033ad09eaf97bdec5922fd981b39a7d0'}
+  - {seq: 8, role: markers, filename: assets/KR3j0014_008-CHANT.markers.yaml, hash: 'sha256:900bcb8fda50a09107c440a486db47e90d84a97eea388e08fa1542ca1c1e5c7e'}
+  - {seq: 9, role: markers, filename: assets/KR3j0014_009-CHANT.markers.yaml, hash: 'sha256:5d9ab057fa086e9ec8e6632c1363948dd03ca3125b7a9ee4bd065ab07eccce5c'}
+  - {seq: 10, role: markers, filename: assets/KR3j0014_010-CHANT.markers.yaml, hash: 'sha256:60bfc300ba7d23a618f11116e8a23f1c59e784d2729fef36a5f1a9fe93b4154b'}
+  - {seq: 11, role: markers, filename: assets/KR3j0014_011-CHANT.markers.yaml, hash: 'sha256:e4ee12c451f0695c09e005d4c6869ebf8ff4316b80116c771d9a58e3c78e0af2'}
+  - {seq: 12, role: markers, filename: assets/KR3j0014_012-CHANT.markers.yaml, hash: 'sha256:45fbe1c631ac47b0f284c8b1a17b7b29cb9ff68f78d8fe6ad624fffd6ce01585'}
+  - {seq: 13, role: markers, filename: assets/KR3j0014_013-CHANT.markers.yaml, hash: 'sha256:31a91ee273cf79d79331f4354a8b7d11b2ff354b8a1017e972b2cc3d0ec85e36'}
+  - {seq: 14, role: markers, filename: assets/KR3j0014_014-CHANT.markers.yaml, hash: 'sha256:17e27e61330a338d7b94acaa0b3818fcdb872a03c8bac8a0e55977f399dca0a8'}
+  - {seq: 15, role: markers, filename: assets/KR3j0014_015-CHANT.markers.yaml, hash: 'sha256:e02e66592997c835124909dc6dcfc7d58d3212e8c49673cd6108ddb04ef640d6'}
+  - {seq: 16, role: markers, filename: assets/KR3j0014_016-CHANT.markers.yaml, hash: 'sha256:f40015476a5a9aba2083d788cb88079f61183b0c9945c9200fe9e6fa0e9cace1'}
+  - {seq: 17, role: markers, filename: assets/KR3j0014_017-CHANT.markers.yaml, hash: 'sha256:b663a27950590222316b1070d960818dae92615129ba7bd7e6e201a94908823e'}
+  - {seq: 18, role: markers, filename: assets/KR3j0014_018-CHANT.markers.yaml, hash: 'sha256:ae1b81d3771f32feba73c1bd2662b646912ca5c93dcab411811b8c732c2c71a5'}
+  - {seq: 19, role: markers, filename: assets/KR3j0014_019-CHANT.markers.yaml, hash: 'sha256:28d3c9fe30b535777382cff37dfa86cb6e324c9ea157ff72225df95426cb6c86'}
+  - {seq: 20, role: markers, filename: assets/KR3j0014_020-CHANT.markers.yaml, hash: 'sha256:27f9a31c96786143ed85d261bc89fbe5e7ef82093fbaef3a662cdff921c86460'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0014_CHANT_001-1a.1-h
+    span:
+    - front
+    - 0
+    - 344
+  label: 序致篇一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0014_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 879
+  label: 教子篇二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0014_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 627
+  label: 兄弟篇三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0014_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 673
+  label: 後娶篇四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0014_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 1216
+  label: 治家篇五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0014_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 4049
+  label: 風操篇六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0014_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 830
+  label: 慕賢篇七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0014_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5197
+  label: 勉學篇八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0014_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 3022
+  label: 文章篇九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0014_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 943
+  label: 名實篇十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0014_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 810
+  label: 涉務篇十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3j0014_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1254
+  label: 省事篇十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3j0014_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 332
+  label: 止足篇十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3j0014_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 399
+  label: 誡兵篇十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3j0014_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 586
+  label: 養生篇十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3j0014_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 2151
+  label: 歸心篇十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3j0014_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 6106
+  label: 書證篇十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3j0014_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 1359
+  label: 音辭篇十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3j0014_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 1672
+  label: 雜藝篇十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3j0014_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 641
+  label: 終制篇二十
+  type: section
+  level: 1
+hash: sha256:1dc2eabe97984b139a93ebd0025d086122e17998265bca89e4039052c509ccde
